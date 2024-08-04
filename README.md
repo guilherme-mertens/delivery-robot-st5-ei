@@ -4,6 +4,9 @@
 
 This project involves developing and testing functionalities for an autonomous delivery robot designed for urban "last-mile" delivery. The robot features a high degree of autonomy and communicates wirelessly with a central system to exchange information and receive instructions for coordination.
 
+![](computer_vision.png)
+
+
 ### Key Objectives and Challenges
 
 1. **Obstacle Management**
@@ -43,6 +46,9 @@ This project involves developing and testing functionalities for an autonomous d
 - **Ultrasonic and infrared sensors**
 - **Servomotors at the front and rear**
 - **Li-Ion battery or Ni-MH accumulators for motor power**
+
+![](hardware.png)
+
 
 ### Project Structure
 
