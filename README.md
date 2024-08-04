@@ -4,7 +4,7 @@
 
 This project involves developing and testing functionalities for an autonomous delivery robot designed for urban "last-mile" delivery. The robot features a high degree of autonomy and communicates wirelessly with a central system to exchange information and receive instructions for coordination.
 
-![](computer_vision.png)
+![](computer_vision.jpeg)
 
 
 ### Key Objectives and Challenges
